@@ -42,5 +42,11 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project.
 
+## Completion
+
+```
+This contains all changes made to starter code
+```
+
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

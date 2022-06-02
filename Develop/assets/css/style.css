@@ -1,13 +1,16 @@
+/*All selector. This formatting is applied to everything in the webpage */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*Backhround color added ot the entire body section*/
 body {
     background-color: #d9dcd6;
 }
 
+/*Formatting added to the entire header section*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,12 +18,10 @@ body {
     color: #ffffff;
 }
 
+/*Header h1 and header h1.seo have been consolidated */
 .header h1 {
     display: inline-block;
     font-size: 48px;
-}
-
-.header h1 .seo {
     color: #d9dcd6;
 }
 
@@ -32,9 +33,7 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
-    list-style-type: none;
-}
+/*  Removedheader div ul. was redandant */
 
 .header div ul li {
     display: inline-block;
