@@ -49,6 +49,9 @@ This contains all changes made to starter code
 
 Added missing ID to search-engine-optimization for navigation
 Combined reduant sub classes to parent class to optimize code
+
+!(/Users/ahmadmhanif/Documents/Sandbox/BootCamp/Challenge-1/Develop/assets/images/Screen Shot 2022-06-02 at 7.13.35 PM.png)
+!(Develop/assets/images/Screen Shot 2022-06-02 at 7.13.42 PM.png)
 ```
 
 - - -
