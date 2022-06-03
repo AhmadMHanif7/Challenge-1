@@ -50,8 +50,12 @@ This contains all changes made to starter code
 Added missing ID to search-engine-optimization for navigation
 Combined reduant sub classes to parent class to optimize code
 
-!(/Users/ahmadmhanif/Documents/Sandbox/BootCamp/Challenge-1/Develop/assets/images/Screen Shot 2022-06-02 at 7.13.35 PM.png)
-!(Develop/assets/images/Screen Shot 2022-06-02 at 7.13.42 PM.png)
+<img src="https://github.com/AhmadMHanif7/Challenge-1/blob/f31080faa4b1e301281c2db613c1055063e5f718/Develop/assets/images/Screen%20Shot%202022-06-02%20at%207.13.35%20PM.png">
+![Screenshot](assets/images/Screen Shot 2022-06-02 at 7.13.35 PM.png)
+
+Trouble providing screenshots for the created page.
+
+Deployed link: https://ahmadmhanif7.github.io/Challenge-1/
 ```
 
 - - -
