@@ -46,6 +46,9 @@ You are required to submit the following for review:
 
 ```
 This contains all changes made to starter code
+
+Added missing ID to search-engine-optimization for navigation
+Combined reduant sub classes to parent class to optimize code
 ```
 
 - - -
